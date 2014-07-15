@@ -6,7 +6,7 @@ version := "1.0.0"
 
 organization := "com.kissthinker"
 
-scalaVersion := "2.10.3"
+scalaVersion := "2.11.1"
 
 scalacOptions := Seq("-unchecked", "-deprecation", "-encoding", "utf8")
 
